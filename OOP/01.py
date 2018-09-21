@@ -28,5 +28,7 @@ class PythonStudent():
 yueyue = PythonStudent()
 print(yueyue.name)
 print(yueyue.age)
+
+
 #注意调用的时候没有传入参数
 yueyue.doHomework()
